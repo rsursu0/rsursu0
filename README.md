@@ -3,6 +3,8 @@
 <!--
 **rsursu0/rsursu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+[![wbae's 42 stats](https://badge42.vercel.app/api/v2/clfutjeda002908jmcus2q6ff/stats?cursusId=21&coalitionId=88)](https://github.com/JaeSeoKim/badge42)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
